@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33960'
     url: http://www.gutenberg.org/2009/agents/33960
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29519#Nelson-s-Home-ComfortsThirteenth-Edition
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2009-07-27'
 gutenberg_type: Text
